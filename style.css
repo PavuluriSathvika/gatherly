@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.navbar {
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .05);
+}
+.navbar a {
+  padding: 10px 20px;  /* 10px top/bottom, 20px left/right */
+  display: inline-block;
+}
+
+.navbar li {
+  padding: 0 20px; /* space between menu items */
+}
+
+.navbar {
+  padding: 0 15px; /* space inside the navbar itself */
+}
+
+.navbar-brand {
+    font-weight: 700;
+    color: black;
+}
+
+.nav-link {
+    font-weight: 500;
+    color: #555;
+    padding: 10px 15px;
+}
+
+.nav-link:hover {
+    color: #00798a;
+}
+
+.intro {
+    padding: 80px 0;
+}
+
+.intro h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: #333;
+}
+
+.intro h4 {
+    font-size: 1.25rem;
+    color: #666;
+    line-height: 1.6;
+    margin: 20px 0;
+}
+
+.join {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+.join h3 {
+    font-weight: 700;
+    color: #333;
+}
+
+.join p {
+    font-size: larger;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.btn-primary-custom {
+    background-color: #00798a;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    font-weight: 600;
+}
+
+.btn-danger-custom {
+    background-color: #E32359;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    font-weight: 600;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.div1{
+    display: flex;
+    flex-direction:row;
+    margin:3%;
+    background-color: #97CAD114;
+}
+.vid p{
+    text-decoration: 1px solid underline blue;
+    color:blue;
+}
+.vid{
+    margin-top: 5%;
+}
+#activitySelect{
+    border-radius: 8px;
+    padding:1%;
+    align-items: center;
+}
