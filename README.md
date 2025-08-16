@@ -1,6 +1,6 @@
-# 🎉 Event Connect
+# 🎉 GATHERLY
 
-*Event Connect* is a web portal where people can discover, register, and share events. The platform is designed using *HTML, **CSS, and **Bootstrap* to provide a clean, responsive, and intuitive user interface.
+*Gatherly* is a web portal where people can discover, register, and share events. The platform is designed using *HTML, **CSS, and **Bootstrap* to provide a clean, responsive, and intuitive user interface.
 
 ---
 
